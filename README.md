@@ -1,4 +1,4 @@
-<h1 align="center">Hi ‹, I'm Kunal sharma</h1>
+<h1 align="center">Hi I'm Kunal sharma</h1>
 <h3 align="center">A passionate Penetration Tester| Android developer from India</h3>
 
 - I regularly write articles on [Cyber Attacks](Cyber Attacks)
