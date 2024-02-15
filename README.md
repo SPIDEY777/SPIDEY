@@ -1,4 +1,10 @@
-# 💫 About Me:
+# 💫 About Me:👋 Hey there! I'm Kunal Sharma, a tech enthusiast and penetration tester with a love for hacking challenges. Currently diving into Android development to expand my skills. Let's connect, collaborate, and explore the exciting intersections of tech and security! 🚀💻🔒
+
+
+
+
+
+
 Java
 
 
