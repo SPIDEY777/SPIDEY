@@ -38,14 +38,4 @@
 
 ---
 
- 
- 
-![GitHub stars](https://img.shields.io/github/stars/kunalsharma-dev/MyNotesApp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kunalsharma-dev/MyNotesApp?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/kunalsharma-dev/MyNotesApp)
-![GitHub issues](https://img.shields.io/github/issues/kunalsharma-dev/MyNotesApp)
-![License](https://img.shields.io/github/license/kunalsharma-dev/MyNotesApp)
-
-![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-green?logo=android-studio)
-![XML](https://img.shields.io/badge/Layout-XML-orange)
+  
